@@ -17,8 +17,8 @@
             {
               theme = "stylix";
               font-family = [
-                fonts.emoji.name
                 fonts.monospace.name
+                fonts.emoji.name
               ];
               font-size = fonts.sizes.terminal;
               background-opacity = opacity.terminal;
